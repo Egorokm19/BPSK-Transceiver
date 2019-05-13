@@ -11,3 +11,5 @@ The model consists of:
 3) carrier synchronization
 3. Models of communication channel (the simplest - AWGN)
 Mismatch parameters and models (frequencies, bit rates, etc.) are determined by variables that are initialized at the very beginning of the simulation.
+Results for the project:
+![Screenshot](S1.png)
